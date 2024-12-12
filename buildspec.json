@@ -33,16 +33,18 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "dev.lordfirespeed.obs-tiktok-service"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "name": "obs-tiktok-service",
+    "displayName": "TikTok Service for OBS",
+    "version": "0.0.0",
+    "author": "Lordfirespeed",
+    "website": "https://lordfirespeed.dev/obs-tiktok-service",
+    "email": "obs-tiktok-service@lordfirespeed.dev",
     "uuids": {
-        "windowsApp": "00000000-0000-0000-0000-000000000000"
+        "macosPackage": "0193bae9-3c5e-7489-990c-93813c7886da",
+        "macosInstaller": "0193bae9-2269-7be9-b9e2-6d78bf5e6320",
+        "windowsApp": "0193bae8-f1b5-7710-a031-045a74718eb5"
     }
 }
