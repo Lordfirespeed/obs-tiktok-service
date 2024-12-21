@@ -1,5 +1,8 @@
 {
   "dependencies": [
-    "cpp-httplib"
+    {
+      "name": "cpp-httplib",
+      "features": ["brotli", "openssl"]
+    }
   ]
 }

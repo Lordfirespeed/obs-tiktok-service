@@ -12,8 +12,7 @@
       "cacheVariables": {
         "ENABLE_FRONTEND_API": false,
         "ENABLE_QT": true,
-        "CMAKE_TOOLCHAIN_FILE": "$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake",
-        "CPPHTTPLIB_OPENSSL_SUPPORT": true
+        "CMAKE_TOOLCHAIN_FILE": "$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake"
       }
     },
     {
