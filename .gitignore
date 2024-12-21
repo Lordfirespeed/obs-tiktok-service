@@ -16,6 +16,9 @@
 !LICENSE
 !README.md
 
+# Except vcpkg manifest
+!vcpkg.json
+
 # Exclude lock files
 *.lock.json
 
